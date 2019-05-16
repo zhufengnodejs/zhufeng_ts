@@ -1,0 +1,4 @@
+--require ts-node/register 
+--watch 
+--watch-extensions ts
+test/todo.test.ts
