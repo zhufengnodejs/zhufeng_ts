@@ -14,5 +14,8 @@
     "build": "tsc",
     "eslint": "eslint src --ext .ts",
     "eslint:fix": "eslint src --ext .ts --fix"
-  }
+  },
+  "pre-commit":[
+    "eslint"
+  ]
 }
