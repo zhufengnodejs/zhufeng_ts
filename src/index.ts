@@ -1,5 +1,5 @@
 let name = 'zhufeng';
-let age = 8;
+let age = 8;;
 function getName(){
   let a =2;
 }
